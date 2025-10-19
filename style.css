@@ -29,12 +29,8 @@ nav ul li a:hover {
   color: #0056b3;
 }
 
-nav ul li p {
+nav ul li a p {
   color:red;
 
 }
 
-nav ul li p q {
-  color:green;
-
-}
