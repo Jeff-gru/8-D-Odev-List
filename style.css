@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   text-align: center;
   margin: 20px;
-  background-color: #f4f4f4;
+  background-color: #blue;
 }
 
 h1 {
@@ -29,7 +29,3 @@ nav ul li a:hover {
   color: #0056b3;
 }
 
-p {
-  color:red;
-
-}
