@@ -28,8 +28,8 @@ nav ul li a {
 nav ul li a:hover {
   color: #0056b3;
 }
-
- <q> {
+nav ul li a q:hover {
   color:red;
-
 }
+ 
+
