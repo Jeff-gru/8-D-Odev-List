@@ -29,12 +29,12 @@ nav ul li a:hover {
   color: #0056b3;
 }
 
-nav ul li a p {
+nav ul li p {
   color:red;
 
 }
 
-nav ul li a p q {
+nav ul li p q {
   color:green;
 
 }
